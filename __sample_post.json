@@ -1,0 +1,28 @@
+{
+  "id": 3702382,
+  "description": "<img alt=\"\" src=\"https://df0b18phdhzpx.cloudfront.net/ckeditor_assets/pictures/1605003/original_IMG_20220405_142602_212_2.jpg\" style=\"width: 459px; height: 2560px;\" />",
+  "cohort_id": 14,
+  "subject_id": 22200,
+  "chapter_id": 22315,
+  "subject_name": "Mathematics",
+  "grade": "Standard VIII",
+  "status": "ANSWERED",
+  "type": "Post",
+  "doubt_rewards": [
+    {
+      "id": 5671618,
+      "type": "PendingDoubtReward",
+      "points": 30,
+      "subject_expert_id": 26985390,
+      "subject_expert_name": "Sarath Ar"
+    }
+  ],
+  "total_points": 30,
+  "was_escalated": false,
+  "current_state": "Answered",
+  "created_at": 1649149272,
+  "can_be_assigned": false,
+  "updated_at": 1649151066,
+  "subject_expert_name": "Sarath Ar",
+  "can_answer_till": null
+}
